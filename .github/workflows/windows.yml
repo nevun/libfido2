@@ -10,5 +10,5 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: build
-      #run: .\windows\build.ps1
+      run: .\windows\build.ps1
 
