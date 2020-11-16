@@ -64,4 +64,4 @@ jobs:
           "/usr/local/bin/fido2-token"
         libraries: |
           "/usr/local/lib/libfido2.so"
-        print_flag_table: "on"
+        verbose: "off"
