@@ -27,4 +27,4 @@ jobs:
         libraries: |
           "output/64/lib/fido2.dll"
           "output/32/lib/fido2.dll"
-        print_flag_table: "on"
+        verbose: "off"
